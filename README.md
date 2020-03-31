@@ -4,6 +4,4 @@ Aplicação desenvolvida em Node.js para exemplificar um controle de acesso (aut
 
 Tecnologias: Express, Nunjucks, Knex, Bcrypt, Passport
 
-# Exemplo
-
 Disponível no [Heroku](https://rocky-peak-79277.herokuapp.com) 
